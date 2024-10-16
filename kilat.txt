@@ -1,0 +1,17 @@
+Bantal/guling kecil#29
+Bantal/guling sedang#0
+Bantal/guling besar#0
+Boneka mini#0
+Boneka sedang#0
+Boneka besar#0
+Blouse/celana panjang#0
+Celana pendek#0
+Celana panjang jeans#0
+Celana pendek jeans#0
+Kemeja Lengan Panjang#0
+Kemeja Lengan Pendek#0
+selimut kecil#0
+selimut sedang#0
+selimut besar#0
+handuk besar#0
+handuk kecil#0
